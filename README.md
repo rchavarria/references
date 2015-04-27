@@ -4,9 +4,15 @@ A set of references about programming concepts
 
 # Concepts
 
-## Inversión de dependencias
+## OOP : SOLID 
 
-- [La inversión de dependencias no es (sólo) lo que tú piensas](blog.koalite.com/2015/04/la-inversion-de-dependencias-no-es-solo-lo-que-tu-piensas), [@gulnor](https://twitter.com/gulnor)
+### Inversión de dependencias
+
+- [La inversión de dependencias no es (sólo) lo que tú piensas](http://blog.koalite.com/2015/04/la-inversion-de-dependencias-no-es-solo-lo-que-tu-piensas), [@gulnor](https://twitter.com/gulnor)
+
+### Segregación de interfaces
+
+- [Principio de segregación de interfaces para abuelas](http://blog.koalite.com/2015/04/principio-de-segregacion-de-interfaces-para-abuelas), [@gulnor](https://twitter.com/gulnor)
 
 ## Code smell : shotgun surgery
 
