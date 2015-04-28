@@ -16,24 +16,24 @@ A set of references about programming concepts
 
 ## Code smell : shotgun surgery
 
-- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=910), Sandi Metz en RathRuby 2015
+- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=910), Sandi Metz en BathRuby 2015
 
 ## Pattern : null object
 
-- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=1065), Sandi Metz en RathRuby 2015
+- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=1065), Sandi Metz en BathRuby 2015
 
 ## OOP : inheritance
 
-- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=1860), Sandi Metz en RathRuby 2015
+- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=1860), Sandi Metz en BathRuby 2015
 
 ## OOP : composition over inheritance
 
-- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=2105), Sandi Metz en RathRuby 2015
+- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=2105), Sandi Metz en BathRuby 2015
 - [Why you don't get Mock objects](https://www.youtube.com/watch?v=R9FOchgTtLM&t=645), Gregory Moeck en RubyConf 2011
 
 ## OOP : composition and dependency injection
 
-- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=2305), Sandi Metz en RathRuby 2015
+- [Nothing is Something](https://www.youtube.com/watch?v=9lv2lBq6x4A&t=2305), Sandi Metz en BathRuby 2015
 
 ## TDD : mocks, stubs
 
