@@ -47,3 +47,8 @@ A set of references about programming concepts
 
 - [Why you don't get Mock objects](https://www.youtube.com/watch?v=R9FOchgTtLM&t=540), Gregory Moeck en RubyConf 2011
 
+## Learning : how to code
+
+- [Learning code good](https://www.youtube.com/watch?v=-nsnAYRqYLA), Saron Yitbarek en BathRuby 2015: 1. pick a manageable activity (100 lines of code, short blog post,...), 2. the learning happens in the digressions, in the conversations with your team; 3. it's a team effort; 4. pick a tour guide or mentor; 5. interact with the code and experiment; 6. it doesn't have to be good, just play; 7. finding knowledge gaps; 8. find relevant and interesting code to work with
+
+
